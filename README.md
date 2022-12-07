@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=raphaellaranjeiras)](https://medium.com/@omidnikrah)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=raphaellaranjeiras)](https://medium.com/@raphaellaranjeiras)
 
 
 <!--
