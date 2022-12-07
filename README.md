@@ -31,7 +31,8 @@ makes me happy and **fuels me**: Data Science, Machine Learning, DataViz.  🤖�
 
 
 ### 🤹 Skills
-![](Badge Images/seaborn.png)
+![](badges/python.png) ![](badges/pandas.png) ![](badges/matplotlib.png) ![](badges/seaborn.png) ![](badges/sklearn.png) ![](badges/git.png)
+
 ---
 
 [![Medium Badge](https://img.shields.io/badge/-@raphaellaranjeiras-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@raphaellaranjeiras/)](https://medium.com/@sakshamtaneja/)
