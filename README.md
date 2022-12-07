@@ -6,7 +6,7 @@ about 7 months. After that I studied and applyed to work as administrative assis
 supply chain analyist for Petrobrás. I didn't was selected to both of them (yet). Since May I've finnaly **discovered what** 
 makes me happy and **fuels me**: Data Science, Machine Learning, DataViz.  🤖📊
 
-😍 ### What am I passionate about?
+### 😍  What am I passionate about?
   - Data (you wasn't expecting that.. 🙃)
   - Solving business problems 📈
   - Fiding hidden patterns 🔍
@@ -16,10 +16,10 @@ makes me happy and **fuels me**: Data Science, Machine Learning, DataViz.  🤖�
   - Family 👪
   - Pets (specially my two cats) 🐾
    
-🤝 ### Job Status
+### 🤝  Job Status
   - I’m currently **unemployed** and self-learning data science and its related topics. Looking forward to my **first job opportunity**.
 
-🖥️ ### Portfolio
+### 🖥️  Portfolio
   - All the **personal projects** I've been creating here are shared with their comments and insights when necessary. They are also 
 written in **Portuguese (pt-br) or English**. It deppends on the project. Feel free to contribute: improvments, corrections, anything 
 will be very welcomed. 
