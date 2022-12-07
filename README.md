@@ -11,10 +11,14 @@ makes me happy and **fuels me**: Data Science, Machine Learning, DataViz.  🤖�
   - Solving business problems 📈
   - Fiding hidden patterns 🔍
   - "Predicting" the future and creating something new 🤖
-  - Movies, TV-Shows 🎬
-  - Soccer (It's football, ok? haha) ⚽
-  - Family 👪
-  - Pets (specially my two cats) 🐾
+  - Other than work related:
+    - Family 👪
+    - Pets (specially my two cats) 🐾
+    - Movies, TV-Shows (almost a cinephile..) 🎬
+    - Soccer (It's football, ok? haha) ⚽
+    - Playing games (I used to play more though..) 🎲
+    - Learning something new, preferably something unusual, different, curious, interesting. 🤓
+    
    
 ### 🤝  Job Status
   - I’m currently **unemployed** and self-learning data science and its related topics. Looking forward to my **first job opportunity**.
@@ -27,7 +31,12 @@ will be very welcomed.
   - Sometimes I also write on **Medium** about theoric topics in Data Science universe. Feel free to check it out and contribute. 
 
 
+### 🤹 Skills
 
 
-
-💬 Ask me about
+### 💬 Do you want to reach me out? 
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-raphaellaranjeiras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaellaranjeiras/)](https://www.linkedin.com/in/raphaellaranjeiras/) 
+[![Medium Badge](https://img.shields.io/badge/-@raphaellaranjeiras-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@raphaellaranjeiras/)](https://medium.com/@sakshamtaneja/)
+[![GitHub followers](https://img.shields.io/github/followers/raphaellaranjeiras?label=Follow&style=social)](https://github.com/raphaellaranjeiras/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-raphaellaranjeiras@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaellaranjeiras@gmail.com)](mailto:raphaellaranjeiras@gmail.com)
