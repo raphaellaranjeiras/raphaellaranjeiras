@@ -1,8 +1,8 @@
 ### 🙋‍♂️ Who am I? How did I end up here?
   - I'm **Raphael Laranjeiras** and I'm **28**. I'm from Salvador, Bahia, Brazil. **Graduated** in **Civil Engineering** in 2017.
-I never had any solid experience in the field. In fact, the only job experience I had was as trainee in Saam Smit Towage. 
+I never had any solid experience in the field. In fact, the only job experience I had was as trainee in the company Saam Smit Towage. 
 A company not related with Civil Engineering. I used to be administrative assistant without much attributions. It was for
-about 7 months. After that I studied and applyed to work as administrative assistant for federal public ministry and as 
+about 7 months. After that I studied and applyed to work as administrative assistant for Federal Public Ministry and as 
 supply chain analyist for Petrobrás. I didn't was selected to both of them (yet). Since May I've finnaly **discovered what** 
 makes me happy and **fuels me**: Data Science, Machine Learning, DataViz.  🤖📊
 
@@ -26,7 +26,7 @@ makes me happy and **fuels me**: Data Science, Machine Learning, DataViz.  🤖�
 ### 🖥️  Portfolio
   - All the **personal projects** I've been creating here are shared with their comments and insights when necessary. 
   - The projects are written in **Portuguese (pt-br) or English**. It deppends on the project.  
-  - Sometimes I also write on **Medium** about theoric topics in Data Science universe. Feel free to check it out and contribute.
+  - Sometimes I also write on **Medium** about theoric topics in Data Science universe. Feel free to check it out.
   - **Feel free to contribute**: improvments, corrections, anything will be very welcomed.
 
 
