@@ -31,7 +31,7 @@ makes me happy and **fuels me**: Data Science, Machine Learning, DataViz.  🤖�
 
 
 ### 🤹 Skills
-![](badges/python.png) ![](badges/pandas.png) ![](badges/matplotlib.png) ![](badges/seaborn.png) ![](badges/sklearn.png) ![](badges/git.png)
+![](badges/python.png) ![](badges/pandas.png) ![](badges/matplotlib.png) ![](badges/seaborn2.png) ![](badges/sklearn.png) ![](badges/git.png)
 
 ---
 
