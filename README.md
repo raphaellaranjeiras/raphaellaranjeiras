@@ -1,3 +1,6 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=raphaellaranjeiras&label=Profile%20views&color=0e75b6&style=flat" alt="raphaellaranjeiras" /> </p>
+
+
 ### 🙋‍♂️ Who am I? How did I end up here?
   - I'm **Raphael Laranjeiras** and I'm **28**. I'm from Salvador, Bahia, Brazil. **Graduated** in **Civil Engineering** in 2017.
 I never had any solid experience in the field. In fact, the only job experience I had was as trainee in the company Saam Smit Towage. 
@@ -43,10 +46,12 @@ makes me happy and **fuels me**: Data Science, Machine Learning, DataViz.  🤖�
     - Committed
     - Careful 
 
+![](https://github-readme-stats.vercel.app/api?username=raphaellaranjeiras&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raphaellaranjeiras&theme=onedark&hide_border=false)<br/>
+
 ---
 
 [![Medium Badge](https://img.shields.io/badge/-@raphaellaranjeiras-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@raphaellaranjeiras/)](https://medium.com/@raphaellaranjeiras/)
 [![Linkedin Badge](https://img.shields.io/badge/-raphaellaranjeiras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaellaranjeiras/)](https://www.linkedin.com/in/raphaellaranjeiras/)
 [![Gmail Badge](https://img.shields.io/badge/-raphaellaranjeiras@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaellaranjeiras@gmail.com)](mailto:raphaellaranjeiras@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/raphaellaranjeiras?label=Follow&style=social)](https://github.com/raphaellaranjeiras/?tab=follow)
-![GitHub watchers](https://img.shields.io/github/watchers/raphaellaranjeiras/raphaellaranjeiras?style=social)
