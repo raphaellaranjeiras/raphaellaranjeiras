@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Visitor Count](https ://profile-counter.glitch.me/raphaellaranjeiras/count.svg)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=raphaellaranjeiras)](https://medium.com/@omidnikrah)
+
 
 <!--
 **raphaellaranjeiras/raphaellaranjeiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
