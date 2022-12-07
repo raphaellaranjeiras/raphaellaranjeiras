@@ -45,10 +45,6 @@ makes me happy and **fuels me**: Data Science, Machine Learning, DataViz.  ðŸ¤–ð
     - Curious 
     - Committed
     - Careful 
-
-![](https://github-readme-stats.vercel.app/api?username=raphaellaranjeiras&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raphaellaranjeiras&theme=onedark&hide_border=false)<br/>
-
 ---
 
 [![Medium Badge](https://img.shields.io/badge/-@raphaellaranjeiras-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@raphaellaranjeiras/)](https://medium.com/@raphaellaranjeiras/)
