@@ -45,7 +45,7 @@ makes me happy and **fuels me**: Data Science, Machine Learning, DataViz.  ðŸ¤–ð
 
 ---
 
-[![Medium Badge](https://img.shields.io/badge/-@raphaellaranjeiras-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@raphaellaranjeiras/)](https://medium.com/@sakshamtaneja/)
+[![Medium Badge](https://img.shields.io/badge/-@raphaellaranjeiras-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@raphaellaranjeiras/)](https://medium.com/@raphaellaranjeiras/)
 [![Linkedin Badge](https://img.shields.io/badge/-raphaellaranjeiras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaellaranjeiras/)](https://www.linkedin.com/in/raphaellaranjeiras/)
 [![Gmail Badge](https://img.shields.io/badge/-raphaellaranjeiras@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaellaranjeiras@gmail.com)](mailto:raphaellaranjeiras@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/raphaellaranjeiras?label=Follow&style=social)](https://github.com/raphaellaranjeiras/?tab=follow)
