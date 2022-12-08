@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=raphaellaranjeiras&label=Profile%20views&color=0e75b6&style=flat" alt="raphaellaranjeiras" /> </p>
 
-![](lamp_.jpg)
+![](learner_.jpeg)
 
 
 
