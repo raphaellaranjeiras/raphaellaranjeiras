@@ -9,7 +9,7 @@
 solid experience in the field of engineering. In fact, the only job experience I had was as a trainee in the company Saam Smit Towage. A company 
 not related to Civil Engineering. I used to be an administrative assistant without many attributions. I worked there for about 7 months. After that, 
 I studied and applied to work as an administrative assistant for Federal Public Ministry and as a supply chain analyst for Petrobrás (a Brazilian 
-government oil company). I wasn't selected for both of them (yet). Since May I've finally **discovered what**  makes me happy and **fuels me**: 
+government oil company). I wasn't selected for both of them (yet). Since May, 22 I've finally **discovered what**  makes me happy and **fuels me**: 
 Data Science, Machine Learning, DataViz.  🤖📊
 
 ### 😍  What am I passionate about?
@@ -22,7 +22,7 @@ Data Science, Machine Learning, DataViz.  🤖📊
     - Pets (especially my two cats) 🐾
     - Movies, TV-Shows (almost a cinephile..) 🎬
     - Soccer (It's football, ok? haha) ⚽
-    - Playing games (I used to play more..) 🎲
+    - Music (I actually play the guitar) 🎵
     - Learning something new, preferably something unusual, different, curious, interesting. 🤓
     
    
